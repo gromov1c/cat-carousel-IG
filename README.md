@@ -1,2 +1,2 @@
 # Cat Carousel Showcase
-Small CS-293 Networks and Web Development projects that uses PHP to display a cat carousel from the Cat API.
+Small CS-293 Networks and Web Development project that uses PHP to display a cat carousel from the Cat API.
